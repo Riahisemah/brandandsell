@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Template Landing Page de l'offre Brand&Sell",
+    "description": "Une landing page moderne et responsive de l'offre Brand&Sell",
+    "category": "landing",
+    "image": "previews/temp1.png",
+    "html": "templates/temp1.html",
+    "created_at": "2025-06-16 09:59:34",
+    "updated_at": "2025-06-16 09:59:34"
+  },
+  {
+    "name": "Template La Méthode LIFT",
+    "description": "Une landing page minimaliste et responsive de formation",
+    "category": "formation",
+    "image": "previews/temp2.png",
+    "html": "templates/temp2.html",
+    "created_at": "2025-06-16 09:54:39",
+    "updated_at": "2025-06-16 09:54:39"
+  },
+  {
+    "name": "Template Marketing Automatisé",
+    "description": "Une landing page moderne et responsive de marketing",
+    "category": "landing",
+    "image": "previews/temp3.png",
+    "html": "templates/temp3.html",
+    "created_at": "2025-06-16 09:55:37",
+    "updated_at": "2025-06-16 09:55:37"
+  },
+  {
+    "name": "Template Méthode Lift Optimisé + Animation",
+    "description": "Une landing page moderne et responsive de la formation Méthode Lift Optimisé + Animation",
+    "category": "formation",
+    "image": "previews/temp5.png",
+    "html": "templates/temp5.html",
+    "created_at": "2025-06-16 09:55:25",
+    "updated_at": "2025-06-16 09:55:25"
+  },
+  {
+    "name": "Template BoostBook",
+    "description": "Une landing page moderne et responsive de BoostBook un outil d'aide à la rédaction",
+    "category": "landing",
+    "image": "previews/temp4.png",
+    "html": "templates/temp4.html",
+    "created_at": "2025-06-16 09:55:31",
+    "updated_at": "2025-06-16 09:55:31"
+  }
+]
